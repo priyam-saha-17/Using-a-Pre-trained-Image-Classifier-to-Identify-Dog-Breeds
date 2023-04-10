@@ -19,7 +19,7 @@
 ## Project Outline
 
 
-1. Time your program.
+1. Time the program.
 2. Get program Inputs from the user [ check uploaded_images folder ].
 3. Create Pet Images Labels, ie, the ground truth [ from the file names (under uploaded_images folder) ].
 4. Create Classifier Labels as "Dogs" or "Not Dogs".
